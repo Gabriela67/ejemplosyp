@@ -8,3 +8,5 @@ pregunta 4
 respuesta a la pregunta 4
 pregunta 5 
 repuestan a  ala pregunta 5
+pregunta 6 
+respuesta a pregunta 6
