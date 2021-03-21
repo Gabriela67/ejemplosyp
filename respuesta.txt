@@ -12,3 +12,5 @@ pregunta 6
 respuesta a pregunta 6
 pregunta 7 
 respuesta a la pregunta 7
+pregunta 8 
+repuesta a la pregunta 8 
