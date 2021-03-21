@@ -16,3 +16,5 @@ pregunta 8
 repuesta a la pregunta 8 
 pregunta 9 
 respuesta a la pregunta 9
+pregunta 10 
+repuesta a la pregunta
