@@ -10,3 +10,5 @@ pregunta 5
 repuestan a  ala pregunta 5
 pregunta 6 
 respuesta a pregunta 6
+pregunta 7 
+respuesta a la pregunta 7
